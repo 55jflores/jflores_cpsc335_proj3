@@ -1,0 +1,7 @@
+{
+  "exhaustive_longest_substring_TrivialCases" : 3,
+  "exhaustive_longest_substring_NonTrivialCases" : 2,
+  "detect_subsequence_TrivialCases" : 3,
+  "detect_subsequence_NonTrivialCases" : 2,
+  "exhaustive_longest_subsequence" : 3
+}
