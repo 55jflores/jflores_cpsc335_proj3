@@ -6,3 +6,5 @@ Group members:
 Ada Lovelace adalovelace@csu.fullerton.edu
 
 Charles Babbage charlesbab@csu.fullerton.edu
+
+Jesus Flores jflores2016@csu.fullerton.edu
